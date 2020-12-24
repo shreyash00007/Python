@@ -1,5 +1,5 @@
 num1 = int(input("Enter the value of first no : ")
-num1 = int(input("Enter the value of second no : ")
+num2 = int(input("Enter the value of second no : ")
 
 sum = num1 + num2:
 
