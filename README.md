@@ -1,2 +1,2 @@
 # Python-basic-stuff
-This repository was created for my own revision.
+This repository was created for my own python revision.
