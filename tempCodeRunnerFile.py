@@ -1,1 +1,1 @@
-b
+rname is: " + username)
